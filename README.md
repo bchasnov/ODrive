@@ -5,7 +5,7 @@
 
 ### Todo
 * Statespace control
-* Force feedback
+* Force feedback and feedforward
 
 ![ODrive Logo](https://static1.squarespace.com/static/58aff26de4fcb53b5efd2f02/t/59bf2a7959cc6872bd68be7e/1505700483663/Odrive+logo+plus+text+black.png?format=1000w)
 
